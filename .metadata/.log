@@ -21,3 +21,27 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-09 17:01:31.918
 !MESSAGE The POM for org.hibernate:com.springsource.org.hibernate.validator:jar:4.1.0.GA is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-09 17:10:48.876
+!MESSAGE The POM for com.bea.commonj:com.springsource.commonj:jar:1.1.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-09 17:11:01.874
+!MESSAGE Could not transfer metadata commons-collections:commons-collections/maven-metadata.xml from/to jaspersoft (http://www.jasperforge.org/maven2): www.jasperforge.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-09 17:11:07.166
+!MESSAGE Could not transfer metadata commons-digester:commons-digester/maven-metadata.xml from/to jaspersoft (http://www.jasperforge.org/maven2): www.jasperforge.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-09 17:11:18.474
+!MESSAGE Could not transfer metadata commons-logging:commons-logging/maven-metadata.xml from/to jaspersoft (http://www.jasperforge.org/maven2): www.jasperforge.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-09 17:11:20.890
+!MESSAGE Could not transfer metadata com.lowagie:itext/maven-metadata.xml from/to jaspersoft (http://www.jasperforge.org/maven2): www.jasperforge.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-09 17:11:35.401
+!MESSAGE Could not transfer metadata jfree:jcommon/maven-metadata.xml from/to jaspersoft (http://www.jasperforge.org/maven2): www.jasperforge.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-09 17:11:37.380
+!MESSAGE Could not transfer metadata jfree:jfreechart/maven-metadata.xml from/to jaspersoft (http://www.jasperforge.org/maven2): www.jasperforge.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-03-09 17:11:41.289
+!MESSAGE Could not transfer metadata eclipse:jdtcore/maven-metadata.xml from/to jaspersoft (http://www.jasperforge.org/maven2): www.jasperforge.org
